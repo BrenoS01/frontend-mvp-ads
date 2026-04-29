@@ -22,15 +22,15 @@ function criarSlideShow(classe, imagens, tempo = 4000) {
 }
 
 criarSlideShow("slide-montanha", [
-    "/ecoSerra/inicio/images/trilhas/pedraTartaruga.png",
-    "/ecoSerra/inicio/images/trilhas/vistaPedraTartaruga.png",
-    "/ecoSerra/inicio/images/trilhas/pedraCamelo/imgPedraCamelo.png",
-    "/ecoSerra/inicio/images/trilhas/pedraCamelo/imgPedraCamelo2.png",
-    "/ecoSerra/parques/parqueMontanhas/images/pedraAlpina/pedraAlpina.png"
+    "../../images/parqueMontanhas/pedraTartaruga/pedraTartaruga.png",
+    "../../images/parqueMontanhas/pedraTartaruga/vistaPedraTartaruga.png",
+    "../../images/parqueMontanhas/pedraCamelo/imgPedraCamelo.png",
+    "../../images/parqueMontanhas/pedraCamelo/imgPedraCamelo2.png"
 ]);
 
 criarSlideShow("slide-tresPicos", [
-    "/ecoSerra/inicio/images/trilhas/trilhaPedraElefante/pedraElefante.png",
-    "/ecoSerra/inicio/images/cachoeiras/cachuFrades/imgCachuFrades2.png",
-    "/ecoSerra/inicio/images/trilhas/trilhaPedraElefante/pedraElefante3.png"
+    "../../images/parqueTresPicos/trilhaPedraElefante/pedraElefante.png",
+    "../../images/parqueTresPicos/trilhaPedraElefante/pedraElefante2.png",
+    "../../images/parqueTresPicos/cachuFrades/imgCachuFrades2.png",
+    "../../images/parqueTresPicos/trilhaPedraElefante/pedraElefante3.png"
 ]);

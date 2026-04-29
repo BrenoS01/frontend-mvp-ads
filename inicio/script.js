@@ -23,22 +23,22 @@ function criarSlideShow(classe, imagens, tempo = 4000) {
 
 
 criarSlideShow("slide-montanha", [
-    "../images/parqueMontanhas/pedraTartaruga/pedraTartaruga.png",
-    "../images/parqueMontanhas/pedraTartaruga/vistaPedraTartaruga.png",
-    "../images/parqueMontanhas/pedraCamelo/imgPedraCamelo.png",
-    "../images/parqueMontanhas/pedraCamelo/imgPedraCamelo2.png"
+    "./images/parqueMontanhas/pedraTartaruga/pedraTartaruga.png",
+    "./images/parqueMontanhas/pedraTartaruga/vistaPedraTartaruga.png",
+    "./images/parqueMontanhas/pedraCamelo/imgPedraCamelo.png",
+    "./images/parqueMontanhas/pedraCamelo/imgPedraCamelo2.png"
 ]);
 
 criarSlideShow("slide-tresPicos", [
-    "../images/parqueTresPicos/trilhaPedraElefante/pedraElefante.png",
-    "../images/parqueTresPicos/trilhaPedraElefante/pedraElefante2.png",
-    "../images/parqueTresPicos/cachuFrades/imgCachuFrades2.png",
-    "../images/parqueTresPicos/trilhaPedraElefante/pedraElefante3.png"
+    "./images/parqueTresPicos/trilhaPedraElefante/pedraElefante.png",
+    "./images/parqueTresPicos/trilhaPedraElefante/pedraElefante2.png",
+    "./images/parqueTresPicos/cachuFrades/imgCachuFrades2.png",
+    "./images/parqueTresPicos/trilhaPedraElefante/pedraElefante3.png"
 ]);
 
 criarSlideShow("slide-parnaso", [
-    "../images/parqueParnaso/trilhaPedraSino/pedraSino.png",
-    "../images/parqueParnaso/trilha360/360II.png",
-    "../images/parqueParnaso/cachuDoisIrmaosParqueNacional/doisIrmaosParqueNacional2.png",
-    "../images/parqueParnaso/trilhaPedraSino/imgVistaPedraSino.png"
+    "./images/parqueParnaso/trilhaPedraSino/pedraSino.png",
+    "./images/parqueParnaso/trilha360/360II.png",
+    "./images/parqueParnaso/cachuDoisIrmaosParqueNacional/doisIrmaosParqueNacional2.png",
+    "./images/parqueParnaso/trilhaPedraSino/imgVistaPedraSino.png"
 ]);
