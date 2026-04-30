@@ -1,8 +1,7 @@
 🌿 EcoSerra Teresópolis MVP – ADS UNIFESO
-
 📍 Polo EAD – Teresópolis 09
 
-👥 Integrantes: Breno Masiero Silva – 06012746 Gabriel Nogueira Esteves – 06015945 David Dias Demani - 06016160
+👥 Integrantes: Breno Masiero Silva – 06012746 | Gabriel Nogueira Esteves – 06015945 | David Dias Demani - 06016160
 
 📌 Sobre o Projeto
 
@@ -29,23 +28,19 @@ Encontrar trilhas e pontos turísticos naturais Consultar eventos relacionados a
 🔹 Visitantes
 
 Usuários que acessam a plataforma para:
-
 Buscar informações sobre trilhas, cachoeiras e eventos Planejar visitas e atividades
 
 🔹 Administradores
 
 Responsáveis por:
-
 Atualizar conteúdos do sistema Gerenciar informações exibidas Controlar acesso administrativo
 
 🛠️ Tecnologias Utilizadas HTML → Estrutura da aplicação CSS → Estilização e layout JavaScript → Interatividade e comportamento 💡 Diferencial do Projeto
 
 O EcoSerra busca não apenas informar, mas também:
-
 Incentivar o turismo sustentável 🌱 Promover a valorização ambiental da região Facilitar o planejamento de atividades ao ar livre 📈 Visão de Futuro
 
 Possíveis evoluções do sistema:
-
 Integração com APIs de clima 🌦️ Sistema de avaliação de trilhas ⭐ Geolocalização 📍 Versão mobile 📄 Licença
 
 Projeto acadêmico desenvolvido para fins educacionais – UNIFESO
